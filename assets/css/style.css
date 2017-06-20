@@ -1,1 +1,43 @@
-/* Holiii otra vez */
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.uno{
+	width: 100%;
+}
+.photito{
+	width: 100%;
+}
+.tres{
+	width: 100%;
+}
+.tres{
+	padding: 50px;
+}
+.sin-borde{
+	padding: 0;
+}
+.img-adentro{
+	width: 100%;
+}
+.titulo{
+	padding:10px;
+}
+.titulo h4{
+	border-bottom: 2px solid red;
+}
+.rojito{
+	color: red;
+}
+.rojo{
+	color: red;
+}
+.hola{
+	padding:20px;
+}
+
+.titulito{
+	padding:20px,;
+	border-bottom: 2px solid gray;
+}
